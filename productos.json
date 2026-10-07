@@ -1,0 +1,88 @@
+{
+  "vendedor": {
+    "whatsapp": "5352715892",
+    "mensaje": "Hola, vi un producto en Vida Sana y quiero más información",
+    "moneda": "USD"
+  },
+  "productos": [
+    {
+      "id": 5,
+      "nombre": "Adidas Superstar",
+      "descripcion": "Adidas Superstar calidad G5. # 40, 40 USD",
+      "precio": 40.00,
+      "moneda": "USD",
+      "categoria": "Tenis",
+      "imagen": "img/adidas_superstar_g5.jpg",
+      "disponible": true,
+      "destacado": false
+    },
+
+{
+      "id": 6,
+      "nombre": "Adidas Samba",
+      "descripcion": "Adidas Samba G5, Blanco, # del 36 al 44",
+      "precio": 40.00,
+      "moneda": "USD",
+      "categoria": "Tenis",
+      "imagen": "img/adidas_samba_g5_blanco.jpg",
+      "disponible": true,
+      "destacado": false
+    },
+    {
+      "id": 7,
+      "nombre": "Adidas Samba",
+      "descripcion": "Adidas Samba G5, negro. # del 42 al 45.",
+      "precio": 40.00,
+      "moneda": "USD",
+      "categoria": "Tenis",
+      "imagen": "img/adidas_samba_g5_negro.jpg",
+      "disponible": true,
+      "destacado": false
+    },
+{
+      "id": 8,
+      "nombre": "New Balance 1000",
+      "descripcion": "Tenis New Balance calidad G5 , # 41,42,43",
+      "precio": 45.00,
+      "moneda": "USD",
+      "categoria": "Tenis",
+      "imagen": "img/new_balance_1000.png",
+      "disponible": true,
+      "destacado": false
+    },
+  {
+      "id": 8,
+      "nombre": "Asics",
+      "descripcion": "Asics G5, # 43",
+      "precio": 45.00,
+      "moneda": "USD",
+      "categoria": "Tenis",
+      "imagen": "img/asics_g5_no43.jpg",
+      "disponible": true,
+      "destacado": false
+    } ,
+    {
+      "id": 8,
+      "nombre": "New Balance 9060",
+      "descripcion": "New Balance 9060 G5, # 36,37,38",
+      "precio": 42.00,
+      "moneda": "USD",
+      "categoria": "Tenis",
+      "imagen": "img/new_balance_rosado_9060.jpg",
+      "disponible": true,
+      "destacado": false
+    },  
+    {
+      "id": 8,
+      "nombre": "Juego de pantalón",
+      "descripcion": "Juego pantalón y blusa, talla M, jovencita",
+      "precio": 1500,
+      "moneda": "MN",
+      "categoria": "Ropa Femenina",
+      "imagen": "img/juego_de_pantalon_blusa.png",
+      "disponible": true,
+      "destacado": false
+    }    
+]
+}
+
